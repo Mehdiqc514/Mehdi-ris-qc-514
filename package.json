@@ -1,5 +1,5 @@
 {
-  "name": "Projet-JS-MSM" ,
+  "name": "projet-js-msm" ,
   "version": "1.0.0",
   "description": "JavaScript development environment SM Scalian",
   "scripts": {
@@ -15,9 +15,6 @@
   "dependencies": {
     "whatwg-fetch": "1.0.0"
   },
-  "dependencies": {
-	"whatwg-fetch": "^2.0.4"
-	},
   "devDependencies": {
 	"babel-cli": "^6.26.0",
 	"babel-core": "^6.26.3",
