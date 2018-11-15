@@ -1,0 +1,2 @@
+prestart comme ca il se lance navant l autre du meme nom.
+npm start avec --s se lance en silence donc il affiche pas tout dans la console.
