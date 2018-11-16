@@ -1,0 +1,5 @@
+prestart comme ca il se lance navant l autre du meme nom.
+npm start avec -s se lance en silence donc il affiche pas tout dans la console.
+
+var chalk = require('chalk'); en mode ES5 
+import chalk from 'chalk' ; en mode ES6 et+
